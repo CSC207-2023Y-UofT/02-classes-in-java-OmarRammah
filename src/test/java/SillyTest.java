@@ -57,6 +57,7 @@ public class SillyTest {
         Silly b = new Silly(3);
         Silly c = new Silly("my name");
 
+
         assertEquals("Silly #1", a.toString());
         assertEquals("Silly #3", b.toString());
         assertEquals("my name", c.toString());

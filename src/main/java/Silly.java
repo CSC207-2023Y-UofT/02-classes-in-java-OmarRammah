@@ -140,6 +140,7 @@ public class Silly implements Comparable<Silly>{
         return this.name;
     }
 
+
     /**
      * 4. We can also override the equals() method, which is the equivalent of
      *    Python's __eq__; however, unlike Python, this is called when we use
